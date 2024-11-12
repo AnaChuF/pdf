@@ -95,7 +95,7 @@
             </div>
         </div>
 
-        <div style="width: 90%;margin: auto;background: #ebebeb; border-radius: 20px;">
+        <div style="width: 90%;margin: auto;background: #ebebeb; border-radius: 20px;height: 30%;">
 
             <div class="row" style="height: 35%;">
                 <h4 style="padding-left: 20px; color: #006369">CONDUCCIÓN A LA DEFENSIVA (12 HORAS)</h4>
@@ -159,8 +159,6 @@
 
 
                 </div>
-                {{-- </div> --}}
-
 
             </div>
 
